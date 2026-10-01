@@ -1,0 +1,14 @@
+{
+  "name": "stratum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stratum hero site",
+  "scripts": { "build": "node build.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@fontsource/chakra-petch": "^5.0.0",
+    "@fontsource/inter": "^5.0.0",
+    "ffmpeg-static": "^5.2.0",
+    "sharp": "^0.33.0"
+  }
+}
